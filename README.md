@@ -1,21 +1,14 @@
 #  Parcial API - Stephania Gonzalez (Curso D)
 
-Parcial desarrollado para el **parcialito de Desarrollo de Software**, donde se construyó una **API REST modular en Node.js**.
+Parcial centrado en una **API REST modular en Node.js**.
 
 ---
 
-##  Tecnologías usadas
-
-- Node.js (ESModules)
-- Express
-- FS (File System)
-- Multer
-- Axios
-- csv-writer
+##   Requerimientos obligatorios
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 Parcial-API-STEPHANIA-GONZALEZ-12D/
 │
