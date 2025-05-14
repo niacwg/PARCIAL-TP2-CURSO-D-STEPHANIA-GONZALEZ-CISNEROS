@@ -1,0 +1,9 @@
+### Obtener libros desde JSON
+GET http://localhost:3003/api/json_file
+Content-Type: application/json
+
+###
+
+### Descargar CSV desde API externa
+GET http://localhost:3003/api/data_externa
+Content-Type: application/json
